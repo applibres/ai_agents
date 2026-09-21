@@ -5,7 +5,7 @@ import random
 import matplotlib.pyplot as plt
 
 # Parameters
-num_episodes = 5000
+num_episodes = 6000
 gamma = 0.9
 seed = 42
 random.seed(seed)
