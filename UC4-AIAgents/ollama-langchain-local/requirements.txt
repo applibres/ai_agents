@@ -1,0 +1,13 @@
+duckduckgo-search
+ipython
+langchain
+langchain-chroma
+langchain-classic
+langchain-community
+langchain-core
+langchain-ollama
+langchain-text-splitters
+langgraph
+rich
+typing-extensions
+wikipedia
